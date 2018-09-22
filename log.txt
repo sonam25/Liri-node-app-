@@ -1,0 +1,186 @@
+Invalid Instruction
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=e1579921908c40ec9b8d33106b319f51
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Harry Potter and the Deathly Hallows: Part 2
+Release Year: 2011
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 96%
+Country: USA, UK
+Language: English
+Plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+Actors: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Tangled
+Release Year: 2010
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English
+Plot: The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.
+Actors: Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Release Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: The Police
+Song: Every Breath You Take - Remastered 2003
+Preview: null
+Album: Synchronicity
+
+---------------------------------------------------
+
+Invalid Instruction
+
+---------------------------------------------------
+
+Artist: Kanye West
+Song: I Love It (& Lil Pump)
+Preview: null
+Album: I Love It
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Sunanda Sharma
+Song: Jaani Tera Naa
+Preview: https://p.scdn.co/mp3-preview/9268e26036938e14504bd4d528f812ceb9a6230d?cid=e1579921908c40ec9b8d33106b319f51
+Album: Jaani Tera Naa
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+Artist: MadeinTYO
+Song: Ned Flanders (feat. A$AP Ferg)
+Preview: https://p.scdn.co/mp3-preview/90dbf17146e76483a9fe296d7f03001e2f07199f?cid=e1579921908c40ec9b8d33106b319f51
+Album: Ned Flanders (feat. A$AP Ferg)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Mares
+Preview: https://p.scdn.co/mp3-preview/a01eda4a1f6b3fd4bcba977d1cc05effbe343522?cid=e1579921908c40ec9b8d33106b319f51
+Song: Höga klackar
+Album: Höga klackar
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/71e82ed806b9b4df920bd5cfa70b940bee86a19f?cid=e1579921908c40ec9b8d33106b319f51
+Artist: Lyrica Anderson
+Song: Faded to Sade
+Album: Nasha Pearl
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Jonas Brothers
+Song: This Is Me - The 3D Concert Experience
+Preview: null
+Album: Music from the 3D Concert Experience
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/17/2018
+Name: Lexington Village Theatre
+City: Lexington
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/29/2018
+Name: Magic Bag
+City: Ferndale
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/22/2018
+Name: Petco Park
+Country: CA
+City: San Diego
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Petco Park
+Country: CA
+City: San Diego
+Country: United States
+
+---------------------------------------------------
+
+Date: 09/22/2018
+
+---------------------------------------------------
+
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+---------------------------------------------------
+
